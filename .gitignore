@@ -1,6 +1,14 @@
-Behavioural Cloning - Udacity/
+Behavioural Cloning - Udacity/term1-simulator-windows
+Behavioural Cloning - Udacity/term1-simulator-windows.zip
+Behavioural Cloning - Udacity/IMG
+Behavioural Cloning - Udacity/driving_log.csv
+Behavioural Cloning - Udacity/models
+Behavioural Cloning - Udacity/out
+Behavioural Cloning - Udacity/__pycache__
+Behavioural Cloning - Udacity/behavioural_env
 Autopilot-TensorFlow-master/
 __pycache__/
 saved_models/
 driving_dataset/
 steering/
+behavioural_env
