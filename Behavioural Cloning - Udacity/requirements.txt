@@ -14,7 +14,7 @@ imageio==2.1.2
 moviepy==0.2.3.2
 opencv-python
 requests==2.18.4
-tensorflow==2.2.0
+tensorflow==2.7.2
 keras==2.4.0
 python-socketio==4.6.0
 python-engineio==3.13.0
